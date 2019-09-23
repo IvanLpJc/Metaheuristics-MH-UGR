@@ -1,0 +1,109 @@
+Cual desea utilizar:
+1 - parkinsons
+2 - ozone
+3 - spectf heart
+================================================================================================
+Cargando base de datos...
+=============== K-NN ===============
+Conjunto 1
+train-test (tasa acierto, tasa reduccion, tasa final, tiempo): 73.4375 : 0 : 36.7188 : 0.008
+=======================================
+Conjunto 2
+train-test (tasa acierto, tasa reduccion, tasa final, tiempo): 42.1875 : 0 : 21.0938 : 0.004
+=======================================
+Conjunto 3
+train-test (tasa acierto, tasa reduccion, tasa final, tiempo): 25 : 0 : 12.5 : 0.004
+=======================================
+Conjunto 4
+train-test (tasa acierto, tasa reduccion, tasa final, tiempo): 20.3125 : 0 : 10.1562 : 0.004
+=======================================
+Conjunto 5
+train-test (tasa acierto, tasa reduccion, tasa final, tiempo): 87.1875 : 0 : 43.5938 : 0.004
+=======================================
+Media (tasa acierto, tasa reducción, tasa agregación, tiempo): 49.625 : 0 : 24.8125 : 0.0048
+=============== Relief ===============
+Conjunto 1
+Resultados (tasa acierto, tasa reduccion, tasa final, tiempo): 20.8333 : 23.9437 : 22.3885 : 0.004
+=======================================
+Conjunto 2
+Resultados (tasa acierto, tasa reduccion, tasa final, tiempo): 26.1161 : 14.0845 : 20.1003 : 0.004
+=======================================
+Conjunto 3
+Resultados (tasa acierto, tasa reduccion, tasa final, tiempo): 28.125 : 9.85915 : 18.9921 : 0.004
+=======================================
+Conjunto 4
+Resultados (tasa acierto, tasa reduccion, tasa final, tiempo): 31.0764 : 19.7183 : 25.3974 : 0.004
+=======================================
+Conjunto 5
+Resultados (tasa acierto, tasa reduccion, tasa final, tiempo): 33.5938 : 26.7606 : 30.1772 : 0.004
+=======================================
+Media (tasa acierto, tasa reducción, tasa agregación, tiempo): 27.9489 : 18.8732 : 23.4111 : 0.004
+=============== EnfriamientoSimulado ===============
+Conjunto 1
+train-test (tasa acierto, tasa reduccion, tasa final, tiempo): 33.9489 : 21.4286 : 27.6887 : 1.256
+=======================================
+Conjunto 2
+train-test (tasa acierto, tasa reduccion, tasa final, tiempo): 35.8073 : 17.1429 : 26.4751 : 1.313
+=======================================
+Conjunto 3
+train-test (tasa acierto, tasa reduccion, tasa final, tiempo): 81.4904 : 11.4286 : 46.4595 : 1.215
+=======================================
+Conjunto 4
+train-test (tasa acierto, tasa reduccion, tasa final, tiempo): 37.9464 : 28.5714 : 33.2589 : 1.206
+=======================================
+Conjunto 5
+train-test (tasa acierto, tasa reduccion, tasa final, tiempo): 38.75 : 12.8571 : 25.8036 : 1.264
+=======================================
+Media (tasa acierto, tasa reducción, tasa agregación, tiempo): 45.5886 : 18.2857 : 31.9372 : 1.2508
+=============== ILS ===============
+Conjunto 1
+ train-test (tasa acierto, tasa reduccion, tasa final, tiempo): 21.582 : 27.5362 : 24.5591 : 270.504
+=======================================
+Conjunto 2
+ train-test (tasa acierto, tasa reduccion, tasa final, tiempo): 8.63971 : 30.4348 : 19.5372 : 268.743
+=======================================
+Conjunto 3
+ train-test (tasa acierto, tasa reduccion, tasa final, tiempo): 7.63889 : 21.7391 : 14.689 : 267.39
+=======================================
+Conjunto 4
+ train-test (tasa acierto, tasa reduccion, tasa final, tiempo): 7.8125 : 24.6377 : 16.2251 : 264.562
+=======================================
+Conjunto 5
+ train-test (tasa acierto, tasa reduccion, tasa final, tiempo): 7.42188 : 23.1884 : 15.3051 : 267.751
+=======================================
+Media (tasa acierto, tasa reducción, tasa agregación, tiempo): 10.619 : 25.5072 : 18.0631 : 267.79
+=============== EvolucionDiferencialRand ===============
+Conjunto 1
+ train-test (tasa acierto, tasa reduccion, tasa final, tiempo): 42.3363 : 100 : 71.1682 : 254.7
+=======================================
+Conjunto 2
+He obtenido las clases del conjunto 2
+ train-test (tasa acierto, tasa reduccion, tasa final, tiempo): 42.9688 : 100 : 71.4844 : 250.978
+=======================================
+Conjunto 3
+ train-test (tasa acierto, tasa reduccion, tasa final, tiempo): 42.7989 : 100 : 71.3995 : 253.072
+=======================================
+Conjunto 4
+ train-test (tasa acierto, tasa reduccion, tasa final, tiempo): 43.4245 : 100 : 71.7122 : 254.93
+=======================================
+Conjunto 5
+ train-test (tasa acierto, tasa reduccion, tasa final, tiempo): 44.0625 : 100 : 72.0312 : 253.469
+=======================================
+Media (tasa acierto, tasa reducción, tasa agregación, tiempo): 43.1182 : 100 : 71.5591 : 253.43
+=============== EvolucionDiferencialBest ===============
+Conjunto 1
+train-test (tasa acierto, tasa reduccion, tasa final, tiempo): 43.6899 : 80.597 : 62.1435 : 245.842
+=======================================
+Conjunto 2
+train-test (tasa acierto, tasa reduccion, tasa final, tiempo): 44.3287 : 74.6269 : 59.4778 : 251.234
+=======================================
+Conjunto 3
+train-test (tasa acierto, tasa reduccion, tasa final, tiempo): 44.029 : 67.1642 : 55.5966 : 251.84
+=======================================
+Conjunto 4
+train-test (tasa acierto, tasa reduccion, tasa final, tiempo): 44.5582 : 71.6418 : 58.1 : 252.083
+=======================================
+Conjunto 5
+train-test (tasa acierto, tasa reduccion, tasa final, tiempo): 44.8958 : 77.6119 : 61.2539 : 255.046
+=======================================
+Media (tasa acierto, tasa reducción, tasa agregación, tiempo): 44.3003 : 74.3284 : 59.3143 : 251.209

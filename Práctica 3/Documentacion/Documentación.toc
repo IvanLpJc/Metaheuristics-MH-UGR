@@ -1,0 +1,8 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Descripci\IeC {\'o}n del problema}{2}{section.1}
+\contentsline {section}{\numberline {2}Descripci\IeC {\'o}n de la aplicaci\IeC {\'o}n de los algoritmos empleados al problema}{3}{section.2}
+\contentsline {section}{\numberline {3}Pseudoc\IeC {\'o}digo de los algoritmos}{9}{section.3}
+\contentsline {section}{\numberline {4}Descripci\IeC {\'o}n en pseudoc\IeC {\'o}digo del algoritmo de comparaci\IeC {\'o}n}{14}{section.4}
+\contentsline {section}{\numberline {5}Desarrollo}{14}{section.5}
+\contentsline {section}{\numberline {6}Experimentos y an\IeC {\'a}lisis de resultados}{14}{section.6}
+\contentsline {subsection}{\numberline {6.1}Resultados}{15}{subsection.6.1}
